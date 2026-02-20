@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "拝啓、親愛なる君へ",
+  "base_artist": "Novelbright",
+  "createdAt": "2026-02-20T13:25:37.286628Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "拝啓、親愛なる君へ",
+      "artist": "Novelbright",
+      "has_synced": false,
+      "path": "select/01_拝啓、親愛なる君へ_Novelbright.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "拝啓、親愛なる君へ",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/02_拝啓、親愛なる君へ_Novelbright.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "拝啓、親愛なる君へ",
+      "artist": "Novelbright",
+      "has_synced": false,
+      "path": "select/pl_01_拝啓、親愛なる君へ_Novelbright.txt"
+    }
+  ]
+}
